@@ -12,7 +12,7 @@ Everything — install, update, reinstall, uninstall, cleanup — is handled by 
 ## Quick install
 
 ```bash
-wget https://raw.githubusercontent.com/YOUR-USERNAME/nat-manager-webui/main/nat-manager-webui-v1.0.0.sh
+wget https://raw.githubusercontent.com/tnan/nat-manager-webui/main/nat-manager-webui-v1.0.0.sh
 bash nat-manager-webui-v1.0.0.sh
 ```
 
