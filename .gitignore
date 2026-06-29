@@ -1,0 +1,20 @@
+# macOS
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Editor
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# Backups created by fix scripts (on the server, not in the repo)
+*.bak
+*.bak2
+*.bak3
+
+# Never commit live server files
+data.json
+index.php
